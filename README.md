@@ -1,1 +1,1 @@
-# Semester8
+# Semester8 Project: Comparison of classification algorithms 
